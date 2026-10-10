@@ -265,6 +265,24 @@ The pipeline will:
 
 ---
 
+## 👤 Author & Research
+
+**Muneeb Ali**
+* **GitHub**: [@dev-muneebali](https://github.com/dev-muneebali)
+* **Email**: [muneebali1214572@gmail.com](mailto:muneebali1214572@gmail.com)
+* **Specialization**: AI Engineer & Deep Learning Researcher
+
+```bibtex
+@misc{ali2026glaucovision,
+  author       = {Muneeb Ali},
+  title        = {Multi-Channel EfficientNetB3 with CBAM Attention and CDR-Guided Explainability for Glaucoma Detection},
+  year         = {2026},
+  howpublished = {\url{https://github.com/dev-muneebali/GlaucoVision-AI}}
+}
+```
+
+---
+
 ## 📜 License
 
 This project is licensed under the **[MIT License](LICENSE)**.

@@ -1,5 +1,5 @@
 # Multi-Modal Glaucoma Detection & Clinical Stratification (V2.1)
-# PyTorch · EfficientNet-B3 + CBAM Attention · CDR-Aware Loss · Grad-CAM
+# PyTorch | EfficientNet-B3 + CBAM Attention | CDR-Aware Loss | Grad-CAM
 #
 # Recommended: Python 3.10+
 # For CUDA acceleration (e.g. RTX 30xx/40xx/50xx), install PyTorch matching your CUDA setup:
